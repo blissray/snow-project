@@ -1,0 +1,57 @@
+
+1. TN_ALARM_GNFD.xlsx (제설경보발령)
+
+제설대책, 기상예보에 따른 제설대책 근무지시, 평상시로 돌아감 등등 데이터
+:제설상황에 따라 시설관리공단에서 어떻게 상황을 대체했는지 명시된 데이터
+
+2. TN_INPT_EQPMN.xlsx (투입장비)
+
+투입일자(INPT_DE_DT), 투입시간(INPT_TIME_HM), 부서코드(DEPT_CDE), 장비구분(EQPMN_SE), 투입장비수(INPT_EQPMN_CO), INPT_DT
+
+: 부서에 어떤 장비가 몇개 투입되었는지 명시되어있는 데이터
+
+부서코드가 어딘지, 장비는 어떤 것인지 명시된것이 없음
+
+3. TN_INPT_MTRIL.xlsx (투입자재)
+
+ 재설자재코드(MTRIL_CODE_SE), 부서코드(DEPT_CDE), 투입일자(INPT_DE_DT), 투입시간(INPT_TIME_HM), 투입자재량(INPT_MTRIL_QY), INPT_DT
+: 재설자재별로 어디 부서에 언제 얼마나 투입된것인지 명시된 데이터
+
+부서코드가 어딘지, 장비는 어떤 것인지 명시된것이 없음
+
+
+4. TN_INPT_NMPR.xlsx (투입인원)
+
+투입일자(INPT_DE_DT), 투입시간(INPT_TIME_HM), 부서코드(DEPT_CDE), 인원구분(NMPR_SE), 투입인원수(INPT_NMPR_CO), INPT_DT
+: 날짜별로 어디 부서가 몇명의 인원이 투입되었는지 명시되어있는 데이터
+
+부서코드가 어딘지, 인원구분은 무얼 의미한것인지 명시된것이 없음
+
+5. VN_INPUT_SNOW.xlsx (잔설처리)
+
+투입일자(INPUT_DATE), 투입시간(INPUT_TIME), 부서코드(DEPT_CODE), 처리량(INPUT_QTY)
+: 날짜별로 어디 부서가 얼마나 처리를 했는지 명시되어있는 데이터
+
+부서코드가 어딘지, 무슨 처리를 했는지
+
+6. 코드정보.xlsx
+
+부서코드, 지역
+: 부서코드 별로 어디 지역인지 명시되어있는 데이터
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
