@@ -2,27 +2,27 @@
 
 
 - 구역별 정리
-(전체_권역별_데이터) https://github.com/JONGSKY/snow/tree/master/data/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EB%A6%AC 
+(전체_권역별_데이터) https://github.com/blissray/snow-project/tree/master/data/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EB%A6%AC 
 
 - 강설일 기준 강설량 → 시간별
-  - code : https://github.com/JONGSKY/snow/blob/master/code/zone_tem_statistics/code/%EA%B0%95%EC%84%A4%EC%9D%BC_%EA%B8%B0%EC%A4%80_%EA%B0%95%EC%84%A4%EB%9F%89_%EC%8B%9C%EA%B0%84%EB%B3%84.ipynb
-  - result : https://github.com/JONGSKY/snow/tree/master/code/zone_tem_statistics/result/%EA%B0%95%EC%84%A4%EC%9D%BC_%EA%B8%B0%EC%A4%80_%EA%B0%95%EC%84%A4%EB%9F%89_%EC%8B%9C%EA%B0%84%EB%B3%84
+  - code : https://github.com/blissray/snow-project/blob/master/code/zone_tem_statistics/code/%EA%B0%95%EC%84%A4%EC%9D%BC_%EA%B8%B0%EC%A4%80_%EA%B0%95%EC%84%A4%EB%9F%89_%EC%8B%9C%EA%B0%84%EB%B3%84.ipynb
+  - result : https://github.com/blissray/snow-project/tree/master/code/zone_tem_statistics/result/%EA%B0%95%EC%84%A4%EC%9D%BC_%EA%B8%B0%EC%A4%80_%EA%B0%95%EC%84%A4%EB%9F%89_%EC%8B%9C%EA%B0%84%EB%B3%84
 
 - 강설량의 기준별로 차량 이동 속도를 정리
-  - code : https://github.com/JONGSKY/snow/blob/master/code/zone_tem_statistics/code/%EA%B0%95%EC%84%A4%EB%9F%89_%EA%B8%B0%EC%A4%80%EB%B3%84_%EC%B0%A8%EB%9F%89%EC%9D%B4%EB%8F%99%EC%86%8D%EB%8F%84.ipynb
-  - result : https://github.com/JONGSKY/snow/tree/master/code/zone_tem_statistics/result/%EA%B0%95%EC%84%A4%EB%9F%89_%EA%B8%B0%EC%A4%80%EB%B3%84_%EC%B0%A8%EB%9F%89%EC%9D%B4%EB%8F%99%EC%86%8D%EB%8F%84
+  - code : https://github.com/blissray/snow-project/blob/master/code/zone_tem_statistics/code/%EA%B0%95%EC%84%A4%EB%9F%89_%EA%B8%B0%EC%A4%80%EB%B3%84_%EC%B0%A8%EB%9F%89%EC%9D%B4%EB%8F%99%EC%86%8D%EB%8F%84.ipynb
+  - result : https://github.com/blissray/snow-project/tree/master/code/zone_tem_statistics/result/%EA%B0%95%EC%84%A4%EB%9F%89_%EA%B8%B0%EC%A4%80%EB%B3%84_%EC%B0%A8%EB%9F%89%EC%9D%B4%EB%8F%99%EC%86%8D%EB%8F%84
 
 - 강설일 기준 온도 강설량 구역별 평균
-  - code : https://github.com/JONGSKY/snow/blob/master/code/zone_tem_statistics/code/%EA%B0%95%EC%84%A4%EC%9D%BC_%EA%B8%B0%EC%A4%80_%EA%B5%AC%EC%97%AD%EB%B3%84_%EC%98%A8%EB%8F%84_%EA%B0%95%EC%84%A4%EB%9F%89.ipynb
-  - result : https://github.com/JONGSKY/snow/tree/master/code/zone_tem_statistics/result/%EA%B0%95%EC%84%A4%EC%9D%BC_%EA%B8%B0%EC%A4%80_%EA%B5%AC%EC%97%AD%EB%B3%84_%EC%98%A8%EB%8F%84_%EA%B0%95%EC%84%A4%EB%9F%89
+  - code : https://github.com/blissray/snow-project/blob/master/code/zone_tem_statistics/code/%EA%B0%95%EC%84%A4%EC%9D%BC_%EA%B8%B0%EC%A4%80_%EA%B5%AC%EC%97%AD%EB%B3%84_%EC%98%A8%EB%8F%84_%EA%B0%95%EC%84%A4%EB%9F%89.ipynb
+  - result : https://github.com/blissray/snow-project/tree/master/code/zone_tem_statistics/result/%EA%B0%95%EC%84%A4%EC%9D%BC_%EA%B8%B0%EC%A4%80_%EA%B5%AC%EC%97%AD%EB%B3%84_%EC%98%A8%EB%8F%84_%EA%B0%95%EC%84%A4%EB%9F%89
 
 - 온도 강설량 상관도 그래프
-  - code : https://github.com/JONGSKY/snow/blob/master/code/zone_tem_statistics/code/%EC%98%A8%EB%8F%84_%EA%B0%95%EC%84%A4%EB%9F%89_%EC%83%81%EA%B4%80%EB%8F%84%EA%B7%B8%EB%9E%98%ED%94%84.ipynb
-  - result : https://github.com/JONGSKY/snow/tree/master/code/zone_tem_statistics/result/%EC%98%A8%EB%8F%84_%EA%B0%95%EC%84%A4%EB%9F%89_%EC%83%81%EA%B4%80%EB%8F%84%EA%B7%B8%EB%9E%98%ED%94%84
+  - code : https://github.com/blissray/snow-project-project/blob/master/code/zone_tem_statistics/code/%EC%98%A8%EB%8F%84_%EA%B0%95%EC%84%A4%EB%9F%89_%EC%83%81%EA%B4%80%EB%8F%84%EA%B7%B8%EB%9E%98%ED%94%84.ipynb
+  - result : https://github.com/blissray/snow-project/tree/master/code/zone_tem_statistics/result/%EC%98%A8%EB%8F%84_%EA%B0%95%EC%84%A4%EB%9F%89_%EC%83%81%EA%B4%80%EB%8F%84%EA%B7%B8%EB%9E%98%ED%94%84
 
 - 시간에 따른 강설량 변화 그래프
-  - code : https://github.com/JONGSKY/snow/blob/master/code/zone_tem_statistics/code/%EC%8B%9C%EA%B0%84_%EA%B0%95%EC%84%A4%EB%9F%89_%EB%B3%80%ED%99%94_%EA%B7%B8%EB%9E%98%ED%94%84.ipynb
-  - result : https://github.com/JONGSKY/snow/tree/master/code/zone_tem_statistics/result/%EC%8B%9C%EA%B0%84_%EA%B0%95%EC%84%A4%EB%9F%89_%EB%B3%80%ED%99%94_%EA%B7%B8%EB%9E%98%ED%94%84
+  - code : https://github.com/blissray/snow-project/blob/master/code/zone_tem_statistics/code/%EC%8B%9C%EA%B0%84_%EA%B0%95%EC%84%A4%EB%9F%89_%EB%B3%80%ED%99%94_%EA%B7%B8%EB%9E%98%ED%94%84.ipynb
+  - result : https://github.com/blissray/snow-project/tree/master/code/zone_tem_statistics/result/%EC%8B%9C%EA%B0%84_%EA%B0%95%EC%84%A4%EB%9F%89_%EB%B3%80%ED%99%94_%EA%B7%B8%EB%9E%98%ED%94%84
   
 ### http://planning.seoul.go.kr/plan/main.do
 
